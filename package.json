@@ -1,0 +1,17 @@
+{
+  "name": "npm",
+  "version": "6.1.0",
+  "description": "Dynamic Staircase",
+  "main": "index.js",
+  "scripts": {
+    "test": "cucumber-js
+  },
+  
+  "keywords": [
+    "test"
+  ],
+  "author": "Jag",
+  "devDependencies": {
+    "cucumber": "^4.2.1"
+  }
+}
