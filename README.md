@@ -11,22 +11,22 @@ Assume that N = 4. And we can do either 1 or 2 steps at a time. Which is a const
 We can go from 0 -> 1 or from 0 -> 2 directly.
 
 
-Getting Started
+# Getting Started
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. 
 
-Prerequisites
+# Prerequisites
 1. Node.js
 2. NPM
 3. Cucumber.js
 4. Javascript
 
 
-Running the tests
+# Running the tests
 1. Open Command Prompt
-2. Execute - npm run test
+2. Execute : npm run test
 
-Authors
+# Authors
 Jagmohan Bhanot
 
-License
+# License
 SapientRazorfish
