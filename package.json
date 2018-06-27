@@ -4,13 +4,13 @@
   "description": "Dynamic Staircase",
   "main": "index.js",
   "scripts": {
-    "test": "cucumber-js
+    "test": "cucumber-js"
   },
   
   "keywords": [
     "test"
   ],
-  "author": "Jag",
+  "author": "Jag Bhanot",
   "devDependencies": {
     "cucumber": "^4.2.1"
   }
