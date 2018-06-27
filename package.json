@@ -10,7 +10,7 @@
   "keywords": [
     "test"
   ],
-  "author": "Jag Bhanot",
+  "author": "Jag Bhanot <jbhanot@sapient.com>",
   "devDependencies": {
     "cucumber": "^4.2.1"
   }
